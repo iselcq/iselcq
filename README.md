@@ -16,7 +16,7 @@
  <div id="header" align="left">
 
 ### :woman_technologist: About me : 
-- 🤔 Mechatronic engineer trying to enter the web deelopment word. 
+- 🤔 Mechatronic engineer trying to enter the web development word. 
 
 ---
 
