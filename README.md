@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/iselcq/iselcq/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png" width="800"/>
   <h1>
-  Hola soy Isel ¡Encantada de conocerte!
+  Hey, I am Isel
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -11,6 +11,12 @@
 
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
+
+---
+ <div id="header" align="left">
+
+### :woman_technologist: About me : 
+- 🤔 Currently trying to enter the web deelopment word. 
 
 <!--
 **iselcq/iselcq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
