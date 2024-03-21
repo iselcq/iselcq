@@ -16,7 +16,30 @@
  <div id="header" align="left">
 
 ### :woman_technologist: About me : 
-- 🤔 Currently trying to enter the web deelopment word. 
+- 🤔 Mechatronic engineer trying to enter the web deelopment word. 
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="htnml"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo"/>
+  </a>
+
+</div>
+
+---
+
+### :hammer_and_wrench: Statistics :
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iselcq&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **iselcq/iselcq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
